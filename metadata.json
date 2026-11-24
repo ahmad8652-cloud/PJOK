@@ -1,0 +1,6 @@
+{
+  "name": "PJOK Interactive Game Prompt Generator",
+  "description": "Platform kreatif berbasis AI untuk membantu guru PJOK SD di Indonesia menciptakan prompt media pembelajaran interaktif, game edukasi, dan aktivitas fisik yang aman dan menyenangkan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
